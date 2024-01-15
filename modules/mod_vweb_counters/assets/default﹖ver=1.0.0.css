@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/**
+ * @package     VWEBCMS PKG.Site
+ * @subpackage  mod_vweb_counters
+ * @author      VWEBCMS PKG <admin@vweb.ge>
+ * @copyright   Copyright (C) 2018 - 2020 VWEBCMS PKG. All Rights Reserved.
+ * @license	GNU General Public License Version 2 or later; see License.txt
+ */
+
+.mod-vweb-counters .counters .item {
+    display: block;
+    position: relative;
+    margin: 0;
+    height: auto;
+    float: left;
+    overflow: visible;
+}
+
+.mod-vweb-counters .counters .item .number {
+    display: flex;
+    position: relative;
+    align-items: center;
+    font-family: 'Roboto-Medium',sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    overflow: hidden;
+}
+
+.mod-vweb-counters .counters .item .number:after {
+    content: "+";
+    position: relative;
+    margin-left: 0.5rem;
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-family: "Icons";
+    overflow: hidden;
+}
+
+.mod-vweb-counters .counters .item .text {
+    display: block;
+    position: relative;
+    padding-right: 30%;
+    overflow: hidden;
+}
+
+
+/* Icons */
+.mod-vweb-counters .counters .item .number:before {
+    content: '';
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-right: 1rem;
+    float: left;
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: "Icons";
+}
+
+.mod-vweb-counters .counters .item-1 .number:before {
+    content: '\e6c4';
+}
+
+.mod-vweb-counters .counters .item-2 .number:before {
+    content: '\e628';
+}
+
+.mod-vweb-counters .counters .item-3 .number:before {
+    content: '\e69b';
+}
+/* Icons */
+
+
+/* Icons Projects*/
+.mod-vweb-counters.projects .counters .item-1 .number:before {
+    content: '\e675';
+}
+
+.mod-vweb-counters.projects .counters .item-2 .number:before {
+    content: '\e668';
+}
+
+.mod-vweb-counters.projects .counters .item-3 .number:before {
+    content: '\e6ac';
+}
+/* Icons Projects */
+
+
+
+/* Icons Services */
+.mod-vweb-counters.services .counters .item-1 .number:before {
+    content: '\e675';
+}
+
+.mod-vweb-counters.services .counters .item-2 .number:before {
+    content: '\e668';
+}
+
+.mod-vweb-counters.services .counters .item-3 .number:before {
+    content: '\e6ac';
+}
+/* Icons Services */

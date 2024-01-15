@@ -1,0 +1,180 @@
+@charset "UTF-8";
+/*
+ * @package	 VWEB CMS - Articles Category Module
+ * @subpackage	 VWEB CMS - Articles Category Module
+ * @author       <admin@vweb.ge>
+ * @copyright	 Copyright (C) 2018 - 2020 VWEB CMS. All Rights Reserved.
+ * @website      www.vweb.ge
+ * @license	 GNU General Public License Version 2 or later; see License.txt
+ *
+ */
+/* Author: George Suliashvili */
+
+/* VWEB DEV - Articles Category Module */
+.mod-vweb-category.default .mod-article-image {
+    margin-bottom: 20px;
+}
+
+.mod-vweb-category.default .mod-articles-category-title + .mod-article-image {
+    margin-top: 20px;
+}
+
+.mod-vweb-category.default .mod-article-image.pull-left {
+    margin-right: 20px;
+}
+
+html[dir='rtl'] .mod-vweb-category.default .mod-article-image.pull-left {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.mod-vweb-category.default .mod-article-image.pull-right {
+    margin-left: 20px;
+}
+
+html[dir='rtl'] .mod-vweb-category.default .mod-article-image.pull-right {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.mod-vweb-category.default .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mod-vweb-category.default .rows > div > .item {
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html[dir='rtl'] .mod-vweb-category.default .rows > div > .item {
+    float: right;
+}
+
+.mod-vweb-category.default .rows.rows-1 > div > .item {
+    width: 100%;
+}
+
+.mod-vweb-category.default .rows.rows-2 > div > .item {
+    width: 50%;
+}
+
+.mod-vweb-category.default .rows.rows-3 > div > .item {
+    width: 33.33%;
+}
+
+.mod-vweb-category.default .rows.rows-4 > div > .item {
+    width: 25%;
+}
+
+.mod-vweb-category.default .rows.rows-5 > div > .item {
+    width: 20%;
+}
+
+.mod-vweb-category.default .rows.rows-6 > div > .item {
+    width: 16.66%;
+}
+
+.mod-vweb-category.default .rows.rows-7 > div > .item {
+    width: 14.28%;
+}
+
+.mod-vweb-category.default .rows.rows-8 > div > .item {
+    width: 12.5%;
+}
+
+.mod-vweb-category.default .rows.rows-9 > div > .item {
+    width: 11.11%;
+}
+
+.mod-vweb-category.default .rows.rows-10 > div > .item {
+    width: 10%;
+}
+
+.mod-vweb-category.default .rows.rows-11 > div > .item {
+    width: 9.09%;
+}
+
+.mod-vweb-category.default .rows.rows-12 > div > .item {
+    width: 8.33%;
+}
+
+@media (max-width: 768px) {
+    .mod-vweb-category.default .rows[class*='rows-'] > div > .item {
+        width: 100% !important;
+    }
+}
+/* VWEB DEV - Articles Category Module */
+
+
+/* VWEB DEV - Articles Category Module Item Attribs Stylesheet */
+.mod-vweb-category.default .item-wrap span {
+    display: block;
+}
+
+.mod-vweb-category.default .item-wrap .item-title {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 0 5px;
+}
+
+.mod-vweb-category.default .item-wrap .item-hits,
+.mod-vweb-category.default .item-wrap .item-author,
+.mod-vweb-category.default .item-wrap .vweb-category,
+.mod-vweb-category.default .item-wrap .item-date {
+    font-size: 1rem;
+}
+
+.mod-vweb-category.default .item-text {
+    margin: 10px 0 0;
+}
+
+.mod-vweb-category.default .item-readmore {
+    margin-top: 5px;
+}
+/* VWEB DEV - Articles Category Module - Item Attribs Stylesheet */
+
+/* VWEB DEV - Articles Category Module Stylesheet */
+.mod-vweb-category {
+    display: block;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.mod-vweb-category .rows {
+    display: block;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.mod-vweb-category .rows .row {
+    display: block;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.mod-vweb-category .rows .row .item {
+    display: block;
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+
+.mod-vweb-category .item-image.mod-article-image  {
+    display: block;
+    position: relative;
+    margin: 0;
+    height: 100%;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+/* VWEB DEV - Articles Category Module Stylesheet */

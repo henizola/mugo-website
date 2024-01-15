@@ -1,0 +1,120 @@
+.vweb-socials.default {
+  text-align: left;
+}
+
+.vweb-socials.default .vwebsocial-intro {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.vweb-socials.default .vweb-socials-list {
+  margin: 0;
+  padding: 0;
+}
+
+.vweb-socials.default .vweb-socials-list li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.vweb-socials.default .vweb-socials-link {
+  display: block;
+  text-decoration: none;
+}
+
+.vweb-socials.default .vweb-socials-link .vweb-ico {
+  width: auto;
+  height: auto;
+  -webkit-transition: 0.4s all;
+  transition: 0.4s all;
+  text-align: center;
+}
+
+.vweb-socials.default .vweb-socials-link:hover .vweb-ico {
+  margin: 0;
+}
+
+.vweb-socials.default .vweb-socials-link .vweb-name-socials {
+  margin: 0 5px;
+}
+
+.vweb-socials.default .view-2 .vweb-socials-list li {
+  width: 100%;
+  text-align: left;
+}
+
+html[dir="rtl"] .vweb-socials.default .view-2 .vweb-socials-list li {
+  text-align: right;
+}
+
+/* VWEB Development Socials Module Base CSS  */
+.vweb-socials.default {
+  text-align: left;
+}
+
+.vweb-socials.default .vweb-intro {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.vweb-socials.default .vweb-socials-list {
+  margin: 0;
+  padding: 0;
+}
+
+.vweb-socials.default .vweb-socials-list li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.vweb-socials.default .vweb-socials-link {
+  display: block;
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+.vweb-socials.default .vweb-socials-link .vweb-ico {
+  width: auto !important;
+  height: auto !important;
+  -webkit-transition: 0.6s all !important;
+  transition: 0.6s all !important;
+  text-align: center !important;
+  text-align: center !important;
+  font-size: inherit !important;
+  background: #fff;
+  width: 30px !important;
+  height: 30px !important;
+  line-height: 27px !important;
+  border-radius: 20px !important;
+  border: 1px #e0e2ea solid !important;
+}
+
+.vweb-socials.default .vweb-socials-link .vweb-ico:hover {
+  border: 1px #6d6d6d solid !important;
+}
+
+.vweb-socials.default .vweb-socials-link:hover .vweb-ico {
+  margin: 0;
+}
+
+.vweb-socials.default .vweb-socials-link .vweb-name-socials {
+  margin: 0 5px;
+}
+
+.vweb-socials.default .view-2 .vweb-socials-list li {
+  width: 100%;
+  text-align: left;
+}
+
+html[dir="rtl"] .vweb-socials.default .view-2 .vweb-socials-list li {
+  text-align: right;
+}
+
+span.vweb-ico:before {
+  font-size: 22px;
+}
+
+span.vweb-ico:nth-child(1):before {
+  font-size: 13px;
+}
+/* VWEB Socials Module */

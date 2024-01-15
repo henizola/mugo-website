@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/**
+ * @package     VWEBCMS PKG.Site
+ * @subpackage  mod_vweb_contacts
+ * @author      VWEBCMS PKG <admin@vweb.ge>
+ * @copyright   Copyright (C) 2018 - 2020 VWEBCMS PKG. All Rights Reserved.
+ * @license	GNU General Public License Version 2 or later; see License.txt
+ */
+
+.mod-vweb-contacts a {
+    position: relative;
+    font-size: 14px;
+    font-family: 'Roboto-Medium', sans-serif;
+    font-weight: normal;
+    overflow: hidden;
+}
+
+.mod-vweb-contacts a:lang(ka) {
+    font-family: 'DejaVuSansRegular',sans-serif;
+    font-weight: bold;
+}
+
+.mod-vweb-contacts .item {
+    display: block;
+    position: relative;
+    margin-bottom: 0.5rem;
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.mod-vweb-contacts .item:lang(ka) {
+   font-family: 'DejaVuSansRegular',sans-serif;
+   font-weight: normal;
+}
