@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- generator="Joomla! - Open Source Content Management" -->
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-us">
-	<title type="text">Spectrum - Services</title>
+	<title type="text">Mugo - Services</title>
 	<subtitle type="text">სამშენებლო კომპანია, საპროექტო კომპანია, ინტერიერის დიზაინი, მშენებლობა, პროექტირება, დიზაინი</subtitle>
-	<link rel="alternate" type="text/html" href="https://spectrum.ge"/>
-	<id>https://spectrum.ge/services</id>
+	<link rel="alternate" type="text/html" href="https://mugo.ge"/>
+	<id>https://mugo.ge/services</id>
 	<updated>2024-01-09T14:55:51+04:00</updated>
 	<author>
-		<name>Spectrum Website</name>
-		<email>tinatin.tsivtsivadze@spectrum.ge</email>
+		<name>Mugo Website</name>
+		<email>tinatin.tsivtsivadze@mugo.ge</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://spectrum.ge/services?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="https://mugo.ge/services?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Architecture</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/architecture"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/architecture"/>
 		<published>2020-05-07T02:44:06+04:00</published>
 		<updated>2020-05-07T02:44:06+04:00</updated>
-		<id>https://spectrum.ge/services/architecture</id>
+		<id>https://mugo.ge/services/architecture</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Architecture/7.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Architecture/7.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.&lt;/p&gt;
 &lt;p&gt;By being engaged throughout the entire design process, we are able to deliver a highly personalized service that allows us to meet and exceed the client’s expectations.&lt;/p&gt;
 &lt;p&gt;Our architectural portfolio is diverse and includes multiple functions and various scale developments.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Goal&lt;/span&gt;&lt;/h4&gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;Our design inspiration comes from nature, tradition, context that results in delivering bespoke architectural projects with the use of ecologically and technologically advanced materials. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Planning Capabilities Include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Pre-feasibility and pre-construction studies&lt;br /&gt;+  Concept and schematic design&lt;br /&gt;+  Volumetric modules integrating realistic visualization and photo-montages&lt;br /&gt;+  Fully coordinated construction documentation, BIM modeling&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Architecture/7.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Architecture/7.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.&lt;/p&gt;
 &lt;p&gt;By being engaged throughout the entire design process, we are able to deliver a highly personalized service that allows us to meet and exceed the client’s expectations.&lt;/p&gt;
 &lt;p&gt;Our architectural portfolio is diverse and includes multiple functions and various scale developments.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Goal&lt;/span&gt;&lt;/h4&gt;
@@ -46,15 +46,15 @@
 	</entry>
 	<entry>
 		<title>Interior Design</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/interior-design"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/interior-design"/>
 		<published>2020-05-07T02:42:59+04:00</published>
 		<updated>2020-05-07T02:42:59+04:00</updated>
-		<id>https://spectrum.ge/services/interior-design</id>
+		<id>https://mugo.ge/services/interior-design</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.&lt;/p&gt;
 &lt;p&gt;We aim to create unique and bespoke interiors that reflect clients' individual characteristics enriched with cultural, ethnical and stylistic additions.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Design Methodology&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;Our design process and methodology include designing with clients rather than designing for them.&lt;/p&gt;
@@ -62,7 +62,7 @@
 &lt;p&gt;We aim to employ healthy environmental standards in every project, thus making interiors both visually appealing, functional and with a positive impact on people's wellness at all occasions. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Interior Design Capabilities Include: &lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Interior planning&lt;br /&gt;+  Forming bespoke interior styles and characters&lt;br /&gt;+  Custom-made material/textures/color pallets&lt;br /&gt;+  Tailor-made furniture and furnishings&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.&lt;/p&gt;
 &lt;p&gt;We aim to create unique and bespoke interiors that reflect clients' individual characteristics enriched with cultural, ethnical and stylistic additions.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Design Methodology&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;Our design process and methodology include designing with clients rather than designing for them.&lt;/p&gt;
@@ -74,15 +74,15 @@
 	</entry>
 	<entry>
 		<title>Master Planning</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/master-planning"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/master-planning"/>
 		<published>2020-05-07T02:36:55+04:00</published>
 		<updated>2020-05-07T02:36:55+04:00</updated>
-		<id>https://spectrum.ge/services/master-planning</id>
+		<id>https://mugo.ge/services/master-planning</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Master-Planning/8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Master-Planning/8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.&lt;/p&gt;
 &lt;p&gt;We coordinate diverse considerations and aspirations into a strategic long term vision for the facilities by combining both physical and intellectual planning methodology in an open and consultative process.&lt;/p&gt;
 &lt;p&gt;Our collaborative approach evolves in developing phasing and implementation schedules to identify priorities to act as a framework for regeneration and attract the private sector's investment.&lt;/p&gt;
 &lt;p&gt;Together with project stakeholders we conceptualize and shape the three-dimensional urban environment, define public, semiprivate, and private spaces along with public amenities and engage the local community in the development process.&lt;/p&gt;
@@ -90,7 +90,7 @@
 &lt;p&gt;A comprehensive site appraisal is conducted to examine all external factors, including physical, environmental or legislative requirements that will impact the final solution.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Our typical site investigations of the master pan include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Condition assessment of site infrastructure &lt;br /&gt;+  Condition Assessment on built assets and the degree to which current design standards are satisfied&lt;br /&gt;+  Existing site environment with respect to site density, personnel and vehicular access, &lt;br /&gt;+  Analysis of neighborhoods or faculty-based zones, playing fields, etc.&lt;br /&gt;+  External infrastructure assessment such as parking, set down, traffic management, etc.&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Master-Planning/8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Master-Planning/8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.&lt;/p&gt;
 &lt;p&gt;We coordinate diverse considerations and aspirations into a strategic long term vision for the facilities by combining both physical and intellectual planning methodology in an open and consultative process.&lt;/p&gt;
 &lt;p&gt;Our collaborative approach evolves in developing phasing and implementation schedules to identify priorities to act as a framework for regeneration and attract the private sector's investment.&lt;/p&gt;
 &lt;p&gt;Together with project stakeholders we conceptualize and shape the three-dimensional urban environment, define public, semiprivate, and private spaces along with public amenities and engage the local community in the development process.&lt;/p&gt;
@@ -102,20 +102,20 @@
 	</entry>
 	<entry>
 		<title>Construction Management</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/construction-management"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/construction-management"/>
 		<published>2020-05-07T02:41:51+04:00</published>
 		<updated>2020-05-07T02:41:51+04:00</updated>
-		<id>https://spectrum.ge/services/construction-management</id>
+		<id>https://mugo.ge/services/construction-management</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Construction/Management.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Construction/Management.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Project Leadership&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;We provide effective project leadership based on each client’s specific requirements by selecting different services and expertise across a wide range and functionally diverse projects.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Construction Management Services Include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Contract Review and Negotiations  &lt;br /&gt;+  Change Order Analysis&lt;br /&gt;+  Cost Estimating &amp;amp; Evaluations&lt;br /&gt;+  Risk Management / Risk Mitigation&lt;br /&gt;+  Construction Scheduling&lt;br /&gt;+  Value Engineering&lt;br /&gt;+  Earned Value Management&lt;br /&gt;+  Project Control Systems &lt;br /&gt;+  Inspection and Quality Assurance&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Construction/Management.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Construction/Management.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Project Leadership&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;We provide effective project leadership based on each client’s specific requirements by selecting different services and expertise across a wide range and functionally diverse projects.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Construction Management Services Include:&lt;/span&gt;&lt;/h4&gt;
@@ -124,19 +124,19 @@
 	</entry>
 	<entry>
 		<title>Construction</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/construction"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/construction"/>
 		<published>2020-05-07T02:40:12+04:00</published>
 		<updated>2020-05-07T02:40:12+04:00</updated>
-		<id>https://spectrum.ge/services/construction</id>
+		<id>https://mugo.ge/services/construction</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.&lt;/p&gt;
 &lt;p&gt;We provide construction services customized to our clients needs, assisting in establishing project design goals, budgets and schedules to keep the project moving forward until its final delivery. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Construction capabilities include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Infrastructure&lt;br /&gt;+  Structural/Civil works&lt;br /&gt;+  Fit out works&lt;br /&gt;+  Quality Control&lt;br /&gt;+  Construction logistics&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.&lt;/p&gt;
 &lt;p&gt;We provide construction services customized to our clients needs, assisting in establishing project design goals, budgets and schedules to keep the project moving forward until its final delivery. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Construction capabilities include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Infrastructure&lt;br /&gt;+  Structural/Civil works&lt;br /&gt;+  Fit out works&lt;br /&gt;+  Quality Control&lt;br /&gt;+  Construction logistics&lt;/p&gt;</content>
@@ -144,22 +144,22 @@
 	</entry>
 	<entry>
 		<title>Procurement Planning</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/procurement-planning"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/procurement-planning"/>
 		<published>2020-05-07T02:35:07+04:00</published>
 		<updated>2020-05-07T02:35:07+04:00</updated>
-		<id>https://spectrum.ge/services/procurement-planning</id>
+		<id>https://mugo.ge/services/procurement-planning</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.&lt;/p&gt;
 &lt;p&gt;We then provide a Procurement Strategy Plan that will ensure a successful completion outcome.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Procurement Tracker&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;The procurement tracker is a specially made tool that enables project stakeholders to obtain accurate and online access to all procurement activities such as tender issuance, tender receipts, contract placement, shipment notifications, custom notices and on-site product delivery.&lt;/p&gt;
 &lt;p&gt;Careful procurement planning is an important factor for maintaining satisfactory results in compliance with the project delivery to its actual form and preventing delays arising from lack of materials or equipment delivered to the construction site.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Procurement&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt; Capabilities Include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;+&lt;/b&gt;  Procurement schedule&lt;br /&gt;&lt;b&gt;+ &lt;/b&gt; Tendering execution and analysis&lt;br /&gt;&lt;b&gt;+&lt;/b&gt;  Financial transactions and buy-out&lt;br /&gt;&lt;b&gt;+&lt;/b&gt;  Customs and logistics&lt;br /&gt;&lt;b&gt;+&lt;/b&gt;  Storage allocation&lt;br /&gt;&lt;b&gt;+&lt;/b&gt;  Project/Site delivery&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.&lt;/p&gt;
 &lt;p&gt;We then provide a Procurement Strategy Plan that will ensure a successful completion outcome.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Procurement Tracker&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;The procurement tracker is a specially made tool that enables project stakeholders to obtain accurate and online access to all procurement activities such as tender issuance, tender receipts, contract placement, shipment notifications, custom notices and on-site product delivery.&lt;/p&gt;
@@ -170,20 +170,20 @@
 	</entry>
 	<entry>
 		<title>Energy Audit</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/energy-audit"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/energy-audit"/>
 		<published>2020-05-07T02:20:13+04:00</published>
 		<updated>2020-05-07T02:20:13+04:00</updated>
-		<id>https://spectrum.ge/services/energy-audit</id>
+		<id>https://mugo.ge/services/energy-audit</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. &lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. &lt;/p&gt;
 &lt;p&gt;We acknowledge our obligation and professional duty to find solutions for energy-efficiency and reducing the carbon footprint.&lt;/p&gt;
 &lt;p&gt;Our special department of energy-auditing serves the construction market for both commercial and residential applications. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Energy Capabilities Include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+ Heat transfer coefficients analysis&lt;br /&gt;+  Identification of the project's energy-saving potential&lt;br /&gt;+  Analysis of Energy balance by type of energy resources consumed&lt;br /&gt;+  Determination of energy-efficient measures based on the conducted analysis&lt;br /&gt;+  Economic impact study for energy-efficient application based on extraction and profitability&lt;br /&gt;+  Analysis of the use of alternative energy sources&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. &lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. &lt;/p&gt;
 &lt;p&gt;We acknowledge our obligation and professional duty to find solutions for energy-efficiency and reducing the carbon footprint.&lt;/p&gt;
 &lt;p&gt;Our special department of energy-auditing serves the construction market for both commercial and residential applications. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Energy Capabilities Include:&lt;/span&gt;&lt;/h4&gt;
@@ -192,15 +192,15 @@
 	</entry>
 	<entry>
 		<title>Biophilic Design</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/services/biophilic-design"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/services/biophilic-design"/>
 		<published>2020-05-07T02:18:53+04:00</published>
 		<updated>2020-05-07T02:18:53+04:00</updated>
-		<id>https://spectrum.ge/services/biophilic-design</id>
+		<id>https://mugo.ge/services/biophilic-design</id>
 		<author>
 			<name>გიორგი სულიაშვილი(DEV)</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;As the world population continues to urbanize, these qualities are ever more important.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;As the world population continues to urbanize, these qualities are ever more important.&lt;/p&gt;
 &lt;p&gt;Our design team is elevating an intuitive inclusion of Biophilic elements to the level of specific design choices with measurable benefits.&lt;/p&gt;
 &lt;p&gt;We strive to bring nature into buildings, reconnect people with natural elements and embrace the buildings with nature. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Methodology&lt;/span&gt;&lt;/h4&gt;
@@ -209,7 +209,7 @@
 &lt;p&gt;By Incorporating a diverse range of design strategies we can accommodate the needs of various user groups from various cultures and demographics to create an environment that is psycho-physiologically and cognitively restorative.&lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Biophilic Design capabilities include:&lt;/span&gt;&lt;/h4&gt;
 &lt;p&gt;+  Natural Analogues&lt;br /&gt;+  Space exploration of natural elements&lt;br /&gt;+  Climate, ecology and the vernacular access&lt;br /&gt;+  Daylight design and patterns&lt;br /&gt;+  Biophilic Patterns&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;As the world population continues to urbanize, these qualities are ever more important.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;As the world population continues to urbanize, these qualities are ever more important.&lt;/p&gt;
 &lt;p&gt;Our design team is elevating an intuitive inclusion of Biophilic elements to the level of specific design choices with measurable benefits.&lt;/p&gt;
 &lt;p&gt;We strive to bring nature into buildings, reconnect people with natural elements and embrace the buildings with nature. &lt;/p&gt;
 &lt;h4&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Methodology&lt;/span&gt;&lt;/h4&gt;

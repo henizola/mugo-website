@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
  * @package	 VWEB CMS - System Administrator
- * @subpackage	 VWEB CMS - Spectrum Website
+ * @subpackage	 VWEB CMS - Mugo Website
  * @author       <admin@vweb.ge>
  * @copyright	 Copyright (C) 2018 - 2020 VWEB CMS. All Rights Reserved.
  * @website      www.vweb.ge
@@ -177,13 +177,13 @@ span.desc {
 /* BebasNeue Font */
 @font-face {
   font-family: "BebasNeueBold";
-  src: url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueBold%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueBold%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueBold.woff")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueBold.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueBold.ttf")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueBold.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueBold.svg#BebasNeueBold")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueBold.svg#BebasNeueBold")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -192,13 +192,13 @@ span.desc {
 
 @font-face {
   font-family: "BebasNeueRegular";
-  src: url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueRegular%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueRegular%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueRegular.woff")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueRegular.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueRegular.ttf")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueRegular.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/BebasNeue/BebasNeueRegular.svg#BebasNeueRegular")
+    url("../../../templates/mugo/assets/fonts/BebasNeue/BebasNeueRegular.svg#BebasNeueRegular")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -209,13 +209,13 @@ span.desc {
 /* BPG DejaVu Sans Font */
 @font-face {
   font-family: "DejaVuSansRegularCaps";
-  src: url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansCaps%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansCaps%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansCaps.woff")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansCaps.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansCaps.ttf")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansCaps.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansCaps.svg#DejaVuSansCaps")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansCaps.svg#DejaVuSansCaps")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -224,13 +224,13 @@ span.desc {
 
 @font-face {
   font-family: "DejaVuSansBold";
-  src: url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansBold%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansBold%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansBold.woff")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansBold.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansBold.ttf")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansBold.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansBold.svg#DejaVuSansBold")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansBold.svg#DejaVuSansBold")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -239,13 +239,13 @@ span.desc {
 
 @font-face {
   font-family: "DejaVuSansRegular";
-  src: url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansRegular%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansRegular%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansRegular.woff")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansRegular.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansRegular.ttf")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansRegular.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansRegular.svg#DejaVuSansRegular")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansRegular.svg#DejaVuSansRegular")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -254,13 +254,13 @@ span.desc {
 
 @font-face {
   font-family: "DejaVuSansLight";
-  src: url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansLight%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansLight%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansLight.woff")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansLight.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansLight.ttf")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansLight.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/DejaVuSans/DejaVuSansLight.svg#DejaVuSansLight")
+    url("../../../templates/mugo/assets/fonts/DejaVuSans/DejaVuSansLight.svg#DejaVuSansLight")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -271,13 +271,13 @@ span.desc {
 /* Roboto Font */
 @font-face {
   font-family: "Roboto-Condensed-Bold";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Bold%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Bold%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Bold.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Bold.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Bold.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Bold.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Bold.svg#Roboto-Condensed-Bold")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Bold.svg#Roboto-Condensed-Bold")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -286,13 +286,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Condensed-Regular";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Regular%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Regular%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Regular.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Regular.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Regular.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Regular.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Regular.svg#Roboto-Condensed-Regular")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Regular.svg#Roboto-Condensed-Regular")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -301,13 +301,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Condensed-Light";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Light%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Light%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Light.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Light.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Light.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Light.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/RobotoCondensed-Light.svg#Roboto-Condensed-Light")
+    url("../../../templates/mugo/assets/fonts/Roboto/RobotoCondensed-Light.svg#Roboto-Condensed-Light")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -316,13 +316,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Black";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Black%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Black%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Black.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Black.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Black.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Black.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Black.svg#Roboto-Black")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Black.svg#Roboto-Black")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -331,13 +331,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Bold";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Bold%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Bold%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Bold.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Bold.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Bold.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Bold.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Bold.svg#Roboto-Bold")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Bold.svg#Roboto-Bold")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -346,13 +346,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Medium";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Medium%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Medium%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Medium.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Medium.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Medium.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Medium.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Medium.svg#Roboto-Medium")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Medium.svg#Roboto-Medium")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -361,13 +361,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Regular";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.svg#Roboto-Regular")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.svg#Roboto-Regular")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -376,13 +376,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Light";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Light%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Light%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Light.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Light.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Light.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Light.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Light.svg#Roboto-Light")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Light.svg#Roboto-Light")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -391,13 +391,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Thin";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Thin%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Thin%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Thin.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Thin.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Thin.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Thin.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Thin.svg#Roboto-Thin")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Thin.svg#Roboto-Thin")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -408,13 +408,13 @@ span.desc {
 /* Nunito Font */
 @font-face {
   font-family: "NunitoSans-SemiBold";
-  src: url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-SemiBold%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-SemiBold%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-SemiBold.woff")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-SemiBold.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-SemiBold.ttf")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-SemiBold.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-SemiBold.svg#Roboto-Medium")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-SemiBold.svg#Roboto-Medium")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -423,13 +423,13 @@ span.desc {
 
 @font-face {
   font-family: "Roboto-Regular";
-  src: url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.woff")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.ttf")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Roboto/Roboto-Regular.svg#Roboto-Regular")
+    url("../../../templates/mugo/assets/fonts/Roboto/Roboto-Regular.svg#Roboto-Regular")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -438,13 +438,13 @@ span.desc {
 
 @font-face {
   font-family: "NunitoSans-Light";
-  src: url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-Light%EF%B9%96.eot#iefix")
+  src: url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-Light%EF%B9%96.eot#iefix")
       format("embedded-opentype"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-Light.woff")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-Light.woff")
       format("woff"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-Light.ttf")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-Light.ttf")
       format("truetype"),
-    url("../../../templates/spectrum/assets/fonts/Nunito/NunitoSans-Light.svg#Roboto-Light")
+    url("../../../templates/mugo/assets/fonts/Nunito/NunitoSans-Light.svg#Roboto-Light")
       format("svg");
   font-weight: normal;
   font-display: fallback;
@@ -1842,7 +1842,6 @@ div.vwebsocialshare-subcontainer {
   height: 100%;
   width: 100%;
   top: 0;
-  cursor: none;
   z-index: 150;
 }
 
@@ -1852,7 +1851,6 @@ div.vwebsocialshare-subcontainer {
   height: 100%;
   width: 25%;
   z-index: 150;
-  cursor: none;
   overflow: hidden;
 }
 
@@ -1874,7 +1872,6 @@ div.vwebsocialshare-subcontainer {
   background: none;
   height: 100%;
   width: 100%;
-  cursor: none;
   z-index: 1001;
 }
 /* Pagination */
@@ -2146,7 +2143,6 @@ button.primary,
   letter-spacing: 0.01rem;
   font-family: "Roboto-Medium", sans-serif;
   font-weight: normal;
-  cursor: pointer;
   text-align: left;
   text-transform: uppercase;
 }
@@ -2417,8 +2413,7 @@ button.primary:after,
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url(https://spectrum.ge/vwebpkg/libs/css/owl.video.play.png)
-    no-repeat;
+  background: url(https://mugo.ge/vwebpkg/libs/css/owl.video.play.png) no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -3086,7 +3081,7 @@ button.primary:after,
 }
 
 .V-VideoPlayerWrapper .V-VideoPlayer.hideOverlay .V-VideoHolder {
-  cursor: none;
+  cursor: default;
 }
 
 .V-VideoPlayerWrapper .V-VideoPlayer.hideOverlay .V-VideoHolder:hover:before,

@@ -2,19 +2,19 @@
 <!-- generator="Joomla! - Open Source Content Management" -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Spectrum - Services</title>
+		<title>Mugo - Services</title>
 		<description><![CDATA[სამშენებლო კომპანია, საპროექტო კომპანია, ინტერიერის დიზაინი, მშენებლობა, პროექტირება, დიზაინი]]></description>
-		<link>https://spectrum.ge/services</link>
+		<link>https://mugo.ge/services</link>
 		<lastBuildDate>Tue, 09 Jan 2024 14:55:51 +0400</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://spectrum.ge/services?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="https://mugo.ge/services?format=feed&amp;type=rss"/>
 		<language>en-us</language>
-		<managingEditor>tinatin.tsivtsivadze@spectrum.ge (Spectrum Website)</managingEditor>
+		<managingEditor>tinatin.tsivtsivadze@mugo.ge (Mugo Website)</managingEditor>
 		<item>
 			<title>Architecture</title>
-			<link>https://spectrum.ge/services/architecture</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/architecture</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Services/Architecture/7.jpg" /></p><p>Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.</p>
+			<link>https://mugo.ge/services/architecture</link>
+			<guid isPermaLink="true">https://mugo.ge/services/architecture</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Services/Architecture/7.jpg" /></p><p>Our custom-tailored design methodology integrates clients' individual visions and program parameters resulting into successful project solutions.</p>
 <p>By being engaged throughout the entire design process, we are able to deliver a highly personalized service that allows us to meet and exceed the client’s expectations.</p>
 <p>Our architectural portfolio is diverse and includes multiple functions and various scale developments.</p>
 <h4><span style="font-size: 14pt;">Goal</span></h4>
@@ -24,15 +24,15 @@
 <p>Our design inspiration comes from nature, tradition, context that results in delivering bespoke architectural projects with the use of ecologically and technologically advanced materials. </p>
 <h4><span style="font-size: 14pt;">Planning Capabilities Include:</span></h4>
 <p>+  Pre-feasibility and pre-construction studies<br />+  Concept and schematic design<br />+  Volumetric modules integrating realistic visualization and photo-montages<br />+  Fully coordinated construction documentation, BIM modeling</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:44:06 +0400</pubDate>
 		</item>
 		<item>
 			<title>Interior Design</title>
-			<link>https://spectrum.ge/services/interior-design</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/interior-design</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg" /></p><p>We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.</p>
+			<link>https://mugo.ge/services/interior-design</link>
+			<guid isPermaLink="true">https://mugo.ge/services/interior-design</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Services/Interior-Design/12_SPECTRUM_ROOM.jpg" /></p><p>We analyze our clients’ strategic needs followed by our intelligent response with individual and creative solutions that provide long-lasting values.</p>
 <p>We aim to create unique and bespoke interiors that reflect clients' individual characteristics enriched with cultural, ethnical and stylistic additions.</p>
 <h4><span style="font-size: 14pt;">Design Methodology</span></h4>
 <p>Our design process and methodology include designing with clients rather than designing for them.</p>
@@ -40,15 +40,15 @@
 <p>We aim to employ healthy environmental standards in every project, thus making interiors both visually appealing, functional and with a positive impact on people's wellness at all occasions. </p>
 <h4><span style="font-size: 14pt;">Interior Design Capabilities Include: </span></h4>
 <p>+  Interior planning<br />+  Forming bespoke interior styles and characters<br />+  Custom-made material/textures/color pallets<br />+  Tailor-made furniture and furnishings</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:42:59 +0400</pubDate>
 		</item>
 		<item>
 			<title>Master Planning</title>
-			<link>https://spectrum.ge/services/master-planning</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/master-planning</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Services/Master-Planning/8.jpg" /></p><p>Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.</p>
+			<link>https://mugo.ge/services/master-planning</link>
+			<guid isPermaLink="true">https://mugo.ge/services/master-planning</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Services/Master-Planning/8.jpg" /></p><p>Our goal is to ensure that all Stakeholders buy into our Development Strategy so that the Concept design phase can begin in earnest.</p>
 <p>We coordinate diverse considerations and aspirations into a strategic long term vision for the facilities by combining both physical and intellectual planning methodology in an open and consultative process.</p>
 <p>Our collaborative approach evolves in developing phasing and implementation schedules to identify priorities to act as a framework for regeneration and attract the private sector's investment.</p>
 <p>Together with project stakeholders we conceptualize and shape the three-dimensional urban environment, define public, semiprivate, and private spaces along with public amenities and engage the local community in the development process.</p>
@@ -56,68 +56,68 @@
 <p>A comprehensive site appraisal is conducted to examine all external factors, including physical, environmental or legislative requirements that will impact the final solution.</p>
 <h4><span style="font-size: 14pt;">Our typical site investigations of the master pan include:</span></h4>
 <p>+  Condition assessment of site infrastructure <br />+  Condition Assessment on built assets and the degree to which current design standards are satisfied<br />+  Existing site environment with respect to site density, personnel and vehicular access, <br />+  Analysis of neighborhoods or faculty-based zones, playing fields, etc.<br />+  External infrastructure assessment such as parking, set down, traffic management, etc.</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:36:55 +0400</pubDate>
 		</item>
 		<item>
 			<title>Construction Management</title>
-			<link>https://spectrum.ge/services/construction-management</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/construction-management</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Services/Construction/Management.png" /></p><p>From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.</p>
+			<link>https://mugo.ge/services/construction-management</link>
+			<guid isPermaLink="true">https://mugo.ge/services/construction-management</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Services/Construction/Management.png" /></p><p>From the initial concept to project closeout, we assist our clients in facilitating and coordinating the construction process to mitigate the complex set of risks in the ever-existing construction-related industry.</p>
 <h4><span style="font-size: 14pt;">Project Leadership</span></h4>
 <p>We provide effective project leadership based on each client’s specific requirements by selecting different services and expertise across a wide range and functionally diverse projects.</p>
 <h4><span style="font-size: 14pt;">Construction Management Services Include:</span></h4>
 <p>+  Contract Review and Negotiations  <br />+  Change Order Analysis<br />+  Cost Estimating &amp; Evaluations<br />+  Risk Management / Risk Mitigation<br />+  Construction Scheduling<br />+  Value Engineering<br />+  Earned Value Management<br />+  Project Control Systems <br />+  Inspection and Quality Assurance</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:41:51 +0400</pubDate>
 		</item>
 		<item>
 			<title>Construction</title>
-			<link>https://spectrum.ge/services/construction</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/construction</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg" /></p><p>With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.</p>
+			<link>https://mugo.ge/services/construction</link>
+			<guid isPermaLink="true">https://mugo.ge/services/construction</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Services/Construction-Management/SAMPLE-Corporate.jpg" /></p><p>With an unwavering focus on quality, we provide general construction, project management and skilled craftsmanship to exceed expectations and quality mark on every project.</p>
 <p>We provide construction services customized to our clients needs, assisting in establishing project design goals, budgets and schedules to keep the project moving forward until its final delivery. </p>
 <h4><span style="font-size: 14pt;">Construction capabilities include:</span></h4>
 <p>+  Infrastructure<br />+  Structural/Civil works<br />+  Fit out works<br />+  Quality Control<br />+  Construction logistics</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:40:12 +0400</pubDate>
 		</item>
 		<item>
 			<title>Procurement Planning</title>
-			<link>https://spectrum.ge/services/procurement-planning</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/procurement-planning</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg" /></p><p>At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.</p>
+			<link>https://mugo.ge/services/procurement-planning</link>
+			<guid isPermaLink="true">https://mugo.ge/services/procurement-planning</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Projects/Restaurant-Kalaki/KAL4.jpg" /></p><p>At the outset of every project, we identify a procurement methodology that suits your project and reflects the unique characteristics of your project.</p>
 <p>We then provide a Procurement Strategy Plan that will ensure a successful completion outcome.</p>
 <h4><span style="font-size: 14pt;">Procurement Tracker</span></h4>
 <p>The procurement tracker is a specially made tool that enables project stakeholders to obtain accurate and online access to all procurement activities such as tender issuance, tender receipts, contract placement, shipment notifications, custom notices and on-site product delivery.</p>
 <p>Careful procurement planning is an important factor for maintaining satisfactory results in compliance with the project delivery to its actual form and preventing delays arising from lack of materials or equipment delivered to the construction site.</p>
 <h4><span style="font-size: 14pt;">Procurement</span><span style="font-size: 14pt;"> Capabilities Include:</span></h4>
 <p><b>+</b>  Procurement schedule<br /><b>+ </b> Tendering execution and analysis<br /><b>+</b>  Financial transactions and buy-out<br /><b>+</b>  Customs and logistics<br /><b>+</b>  Storage allocation<br /><b>+</b>  Project/Site delivery</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:35:07 +0400</pubDate>
 		</item>
 		<item>
 			<title>Energy Audit</title>
-			<link>https://spectrum.ge/services/energy-audit</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/energy-audit</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg" /></p><p>Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. </p>
+			<link>https://mugo.ge/services/energy-audit</link>
+			<guid isPermaLink="true">https://mugo.ge/services/energy-audit</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Projects/Recreational-Space-Near-Pansheti-Village/SER8.jpg" /></p><p>Understanding the nature of the energy-efficiency of modern buildings is getting more critical and important due to climate change. </p>
 <p>We acknowledge our obligation and professional duty to find solutions for energy-efficiency and reducing the carbon footprint.</p>
 <p>Our special department of energy-auditing serves the construction market for both commercial and residential applications. </p>
 <h4><span style="font-size: 14pt;">Energy Capabilities Include:</span></h4>
 <p>+ Heat transfer coefficients analysis<br />+  Identification of the project's energy-saving potential<br />+  Analysis of Energy balance by type of energy resources consumed<br />+  Determination of energy-efficient measures based on the conducted analysis<br />+  Economic impact study for energy-efficient application based on extraction and profitability<br />+  Analysis of the use of alternative energy sources</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:20:13 +0400</pubDate>
 		</item>
 		<item>
 			<title>Biophilic Design</title>
-			<link>https://spectrum.ge/services/biophilic-design</link>
-			<guid isPermaLink="true">https://spectrum.ge/services/biophilic-design</guid>
-			<description><![CDATA[<p><img src="https://spectrum.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg" /></p><p>As the world population continues to urbanize, these qualities are ever more important.</p>
+			<link>https://mugo.ge/services/biophilic-design</link>
+			<guid isPermaLink="true">https://mugo.ge/services/biophilic-design</guid>
+			<description><![CDATA[<p><img src="https://mugo.ge/images/Projects/Radisson-Collection-Green-Facade/Radisson-1.jpg" /></p><p>As the world population continues to urbanize, these qualities are ever more important.</p>
 <p>Our design team is elevating an intuitive inclusion of Biophilic elements to the level of specific design choices with measurable benefits.</p>
 <p>We strive to bring nature into buildings, reconnect people with natural elements and embrace the buildings with nature. </p>
 <h4><span style="font-size: 14pt;">Methodology</span></h4>
@@ -126,7 +126,7 @@
 <p>By Incorporating a diverse range of design strategies we can accommodate the needs of various user groups from various cultures and demographics to create an environment that is psycho-physiologically and cognitively restorative.</p>
 <h4><span style="font-size: 14pt;">Biophilic Design capabilities include:</span></h4>
 <p>+  Natural Analogues<br />+  Space exploration of natural elements<br />+  Climate, ecology and the vernacular access<br />+  Daylight design and patterns<br />+  Biophilic Patterns</p>]]></description>
-			<author>tinatin.tsivtsivadze@spectrum.ge (გიორგი სულიაშვილი(DEV))</author>
+			<author>tinatin.tsivtsivadze@mugo.ge (გიორგი სულიაშვილი(DEV))</author>
 			<category>Services</category>
 			<pubDate>Thu, 07 May 2020 02:18:53 +0400</pubDate>
 		</item>

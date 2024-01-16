@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- generator="Joomla! - Open Source Content Management" -->
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-us">
-	<title type="text">Spectrum - Nomination</title>
+	<title type="text">Mugo - Nomination</title>
 	<subtitle type="text">სამშენებლო კომპანია, საპროექტო კომპანია, ინტერიერის დიზაინი, მშენებლობა, პროექტირება, დიზაინი</subtitle>
-	<link rel="alternate" type="text/html" href="https://spectrum.ge"/>
-	<id>https://spectrum.ge/news/nomination</id>
+	<link rel="alternate" type="text/html" href="https://mugo.ge"/>
+	<id>https://mugo.ge/news/nomination</id>
 	<updated>2024-01-09T15:08:22+04:00</updated>
 	<author>
-		<name>Spectrum Website</name>
-		<email>tinatin.tsivtsivadze@spectrum.ge</email>
+		<name>Mugo Website</name>
+		<email>tinatin.tsivtsivadze@mugo.ge</email>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://spectrum.ge/news/nomination?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="https://mugo.ge/news/nomination?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions</title>
-		<link rel="alternate" type="text/html" href="https://spectrum.ge/news/nomination/restaurant-kalaki-is-nominated-for-a-design-award-and-competitions"/>
+		<link rel="alternate" type="text/html" href="https://mugo.ge/news/nomination/restaurant-kalaki-is-nominated-for-a-design-award-and-competitions"/>
 		<published>2019-03-28T23:28:52+04:00</published>
 		<updated>2019-03-28T23:28:52+04:00</updated>
-		<id>https://spectrum.ge/news/nomination/restaurant-kalaki-is-nominated-for-a-design-award-and-competitions</id>
+		<id>https://mugo.ge/news/nomination/restaurant-kalaki-is-nominated-for-a-design-award-and-competitions</id>
 		<author>
 			<name>თინა წივწივაძე</name>
-			<email>tinatin.tsivtsivadze@spectrum.ge</email>
+			<email>tinatin.tsivtsivadze@mugo.ge</email>
 		</author>
-		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/News/2/Awards.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions. A' Design Award is the worlds' largest and most diffused annual design competition.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/News/2/Awards.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions. A' Design Award is the worlds' largest and most diffused annual design competition.&lt;/p&gt;
 
 &lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions.&lt;/p&gt;
 &lt;p&gt;A' Design Award is the worlds' largest and most diffused design competition reaching over 200 countries each year.&lt;/p&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;A' Design Award and Competitions, aims to highlight the excellent qualifications of best designs, design concepts and design oriented products.&lt;/p&gt;
 &lt;p&gt;A' Design Award and Competitions are organized and awarded annually and internationally in multiple categories to reach a wide, design-oriented audience.&lt;/p&gt;
 &lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated in a category - A' Interior Space, Retail and Exhibition Design.&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://spectrum.ge/images/News/2/Awards.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions. A' Design Award is the worlds' largest and most diffused annual design competition.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mugo.ge/images/News/2/Awards.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions. A' Design Award is the worlds' largest and most diffused annual design competition.&lt;/p&gt;
 
 &lt;p&gt;Restaurant &quot;Kalaki&quot; is nominated for A' Design Award and Competitions.&lt;/p&gt;
 &lt;p&gt;A' Design Award is the worlds' largest and most diffused design competition reaching over 200 countries each year.&lt;/p&gt;
