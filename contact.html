@@ -391,7 +391,7 @@
                         <div class="contacts">
                           <div class="item item-1 anim">Marketing</div>
                           <div class="item item-2 anim">
-                            marketing@mugoplus.com
+                            development@mugodesigns.com
                           </div>
                         </div>
                       </div>
@@ -435,7 +435,11 @@
                     <h3 itemprop="name" class="anim">Working Hours</h3>
                     <span class="contact-misc">
                       <p>Monday-Friday</p>
-                      <p>10:00 AM - 19:00 PM</p>
+                      <p>8:00 AM - 5:00 PM</p>
+                    </span>
+                    <span class="contact-misc">
+                      <p>Saturday</p>
+                      <p>8:00 AM - 12:00 PM</p>
                     </span>
                   </div>
                 </div>
@@ -539,6 +543,31 @@
                         <div class="control-group">
                           <div class="control-label">
                             <label
+                              id="jform_contact_emailmsg-lbl"
+                              for="jform_contact_emailmsg"
+                              class="hasPopover required"
+                              title="Subject"
+                              data-content="Enter the subject of your message here."
+                            >
+                              Upload CV</label
+                            >
+                          </div>
+                          <div class="controls">
+                            <input
+                              type="file"
+                              name="jform[contact_subject]"
+                              id="jform_contact_emailmsg"
+                              value=""
+                              class="required border"
+                              size="60"
+                              required
+                              aria-required="true"
+                            />
+                          </div>
+                        </div>
+                        <div class="control-group">
+                          <div class="control-label">
+                            <label
                               id="jform_contact_message-lbl"
                               for="jform_contact_message"
                               class="hasPopover required"
@@ -585,383 +614,15 @@
                   <h3 item-prop="name">Find us Here</h3>
                 </div>
                 <div class="animleft">
-                  <!-- VWEB CMS - Google Map -->
-                  <style>
-                    #map {
-                      display: block;
-                      position: relative;
-                      height: 100%;
-                      width: 100%;
-                      /* box-shadow: 0 5px 15px rgba(0,0,0,.085); */
-                      transform: translateX(-0px) translateY(-0px);
-                    }
-                  </style>
-                  <div id="map"></div>
-                  <script>
-                    function initMap() {
-                      var styledMapType = new google.maps.StyledMapType(
-                        [
-                          {
-                            featureType: "all",
-                            elementType: "labels",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "all",
-                            elementType: "labels.icon",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "administrative",
-                            elementType: "all",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.man_made",
-                            elementType: "all",
-                            stylers: [
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.man_made",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.man_made",
-                            elementType: "labels",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.man_made",
-                            elementType: "labels.icon",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.natural.landcover",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#8fbf54",
-                              },
-                              {
-                                visibility: "on",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "landscape.natural.terrain",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#8fbf54",
-                              },
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi",
-                            elementType: "geometry",
-                            stylers: [
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi",
-                            elementType: "labels",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.attraction",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.attraction",
-                            elementType: "labels.icon",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.business",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.government",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.medical",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.park",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#cfe1b5",
-                              },
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.place_of_worship",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.school",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#e2e1e1",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "poi.sports_complex",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#b0b0b0",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "road",
-                            elementType: "all",
-                            stylers: [
-                              {
-                                saturation: -100,
-                              },
-                              {
-                                lightness: 45,
-                              },
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "road",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#ffffff",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "road",
-                            elementType: "geometry.stroke",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "road",
-                            elementType: "labels",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "road",
-                            elementType: "labels.icon",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "transit",
-                            elementType: "all",
-                            stylers: [
-                              {
-                                visibility: "simplified",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "transit.line",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                visibility: "on",
-                              },
-                              {
-                                color: "#ffffff",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "transit.station",
-                            elementType: "geometry.fill",
-                            stylers: [
-                              {
-                                color: "#323232",
-                              },
-                              {
-                                visibility: "on",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "transit.station",
-                            elementType: "labels.icon",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "water",
-                            elementType: "all",
-                            stylers: [
-                              {
-                                color: "#ffffff",
-                              },
-                              {
-                                visibility: "on",
-                              },
-                            ],
-                          },
-                          {
-                            featureType: "water",
-                            elementType: "labels",
-                            stylers: [
-                              {
-                                visibility: "off",
-                              },
-                            ],
-                          },
-                        ],
-                        { name: "Mugo Map" }
-                      );
-                      var map = new google.maps.Map(
-                        document.getElementById("map"),
-                        {
-                          center: new google.maps.LatLng(8.989671, 38.786119), // Tbilisi Tabukashvili Street #27
-                          zoom: 15,
-                          disableDefaultUI: true,
-                          gestureHandling: "greepy",
-                          zoomControl: true,
-                          heading: 90,
-                          tilt: 45,
-                          mapTypeControlOptions: {
-                            mapTypeIds: ["styled_map_main"],
-                          },
-                        }
-                      );
-
-                      map.mapTypes.set("styled_map_main", styledMapType);
-                      map.setMapTypeId("styled_map_main");
-
-                      var vweblogoimage = "/templates/mugo/images/map.png";
-                      var vwebPos = new google.maps.LatLng(8.989671, 38.786119);
-                      var vwbemapMarker = new google.maps.Marker({
-                        position: vwebPos,
-                        map: map,
-                        icon: vweblogoimage,
-                      });
-                    }
-                  </script>
-                  <script
-                    async
-                    defer
-                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWm86vaC8KPRnwu3sTWMolWWo1VQUSBqg&amp;callback=initMap"
-                  ></script>
-                  <!-- VWEB CMS - Google Map  -->
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31527.309099609443!2d38.72480034828187!3d8.980094420494485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b858f7cca6397%3A0xf8d442c3537c4ed3!2sSur%20Constraction%20Plc!5e0!3m2!1sen!2set!4v1706769498812!5m2!1sen!2set"
+                    width="100%"
+                    height="450"
+                    style="border: 0"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                  ></iframe>
                 </div>
               </div>
             </div>
